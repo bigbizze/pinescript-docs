@@ -55,9 +55,9 @@ User Manual • Pine Script ™ primer
     *   Getting around the Pine Script™ documentation
     *   Where to go from here?
 
-[Welcome to Pine Script ™ v5](Welcome)
 
-[First steps](First)
+
+
 
 Options v: v5
 
@@ -105,7 +105,7 @@ If you can find the tools you need already written for you, it can be a good way
 
 To explore and load scripts from you chart, use the "Indicators & Strategies" button:
 
-![Chart with Indicators & Strategies button highlighted](image.png)
+
 
 The dialog box presents different categories of scripts in its left pane:
 
@@ -117,13 +117,13 @@ The dialog box presents different categories of scripts in its left pane:
 
 Here, the section containing the TradingView built-ins is selected:
 
-![Indicators & Strategies dialog](image2.png)
+
 
 When you click on one of the indicators or strategies (the ones with the green and red arrows following their name), it loads on your chart.
 
 # Browsing Community Scripts
 
-From [TradingView's homepage](https://www.tradingview.com/), you can bring up the Community Scripts stream from the “Community” menu. Here, we are pointing to the "Editors' Picks" section, but there are many other categories you can choose from:
+From , you can bring up the Community Scripts stream from the “Community” menu. Here, we are pointing to the "Editors' Picks" section, but there are many other categories you can choose from:
 
 SCRIPTS
 
@@ -147,7 +147,7 @@ configure some of the script's visuals using the "Style" tab of the same dialog 
 Other settings are available to all scripts from the buttons that appear to the right of its name when you mouse over
 it, and from the "More" menu (the three dots):
 
-![Chart with indicator settings menu open](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABVAAAggCAYAAACqW31uAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+KSURBVHhe7N3LbuNXvQ7p6dYl3qYq6YcQhKCoKogqS2kF+g8g72O+E8cM28kI645A8h7uIHYD5D0v917c6p06a7pLw9w66x/k4zF3v/89vfeee+99z48h77104Q033PAwH88t21gIIQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIY
+
 
 ---
 
@@ -798,12 +798,12 @@ stored in a time series, even though all the values in that particular time seri
 the `[]` operator is used to access past values of a variable, it yields a result of "series" form, even though the variable
 without an offset is of another form, such as "simple” in the case of timeframe.period.
 
-When you grasp how time series can be efficiently handled using Pine Script ™'s syntax and its [execution model](execution model), you
+When you grasp how time series can be efficiently handled using Pine Script ™'s syntax and its , you
 can define complex calculations using little code.
 
-![TradingView Logo](TradingView Logo)
 
-[Execution model](Execution model) [Script structure](Script structure)
+
+ 
 
 
 ---
@@ -1101,7 +1101,7 @@ maxLen
 3barsDown // NOT VALID!
 ```
 
-The [Pine Script™ Style Guide](https://www.tradingview.com/pine-script-docs/en/v5/writing/Style_guide.html) recommends using uppercase SNAKE_CASE for constants, and camelCase for other identifiers:
+The  recommends using uppercase SNAKE_CASE for constants, and camelCase for other identifiers:
 
 ```
 GREEN_COLOR = #4CAF50
@@ -1140,7 +1140,7 @@ Other operators are used to assign values to variables:
 *   `=` is used to assign a value to a variable, but only when you declare the variable (the first time you use it)
 *   `:=` is used to assign a value to a previously declared variable. The following operators can also be used in such a way: `+=`, `-=`, `*=`, `/=`, `%=`
 
-As is explained in the [Type system](type-system) page, forms and types play a critical role in determining the type of results that expressions yield. This, in turn, has an impact on how and with what functions you will be allowed to use those results. Expressions always return a form of the strongest one used in the expression, e.g., if you multiply an "input int" with a "series int", the expression will produce a “series int" result, which you will not be able to use as the argument to `length` in `ta.ema()`.
+As is explained in the  page, forms and types play a critical role in determining the type of results that expressions yield. This, in turn, has an impact on how and with what functions you will be allowed to use those results. Expressions always return a form of the strongest one used in the expression, e.g., if you multiply an "input int" with a "series int", the expression will produce a “series int" result, which you will not be able to use as the argument to `length` in `ta.ema()`.
 
 This script will produce a compilation error:
 
@@ -1350,7 +1350,7 @@ pHi = pivothigh(5, 5)
 plotColor = color.green
 ```
 
-See the [Variable declarations](Variable declarations) page for more information on how to declare variables.
+See the  page for more information on how to declare variables.
 
 ## `:=` reassignement operator
 The `:=` is used to reassign a value to an existing variable. It says use this variable that was declared earlier in my
@@ -1358,7 +1358,7 @@ script, and give it a new value.
 
 Variables which have been first declared, then reassigned using `:=`, are called *mutable* variables. All the following
 examples are valid variable reassignments. You will find more information on how `var` works in the section on the
-[`var` declaration mode](`var`).
+.
 
 ```pinescript
 //@version=5
@@ -1380,7 +1380,7 @@ Note that:
 * The line preserves its previous value until a new pivot is found.
 * Pivots are detected five bars after the pivot actually occurs because our `ta.pivothigh(5,5)` call says that we require five lower highs on both sides of a high point for it to be detected as a pivot.
 
-See the [Variable reassignment](Variable%20reassignment) section for more information on how to reassign values to variables.
+See the  section for more information on how to reassign values to variables.
 
 
 ---
@@ -1688,7 +1688,7 @@ where:
 *   Parts enclosed in square brackets ([]) can appear zero or one time, and those enclosed in curly braces ({})
     can appear zero or more times.
 *   `<expression>` must be of “bool” type or be auto-castable to that type, which is only possible for "int" or "float"
-    values (see the [Type system](Type system) page).
+    values (see the  page).
 *   `<local_block>` consists of zero or more statements followed by a return value, which can be a tuple of values. It
     must be indented by four spaces or a tab.
 *   There can be zero or more `else if` clauses.
@@ -1765,9 +1765,9 @@ where:
 
 *   Parts enclosed in square brackets (`[]`) can appear zero or one time, and those enclosed in curly braces (`{}`)
     can appear zero or more times.
-*   `<declaration_mode>` is the variable's [declaration mode](declaration%20mode)
-*   `<type>` is optional, as in almost all Pine Script™ variable declarations (see [types](types))
-*   `<identifier>` is the variable's [name](name)
+*   `<declaration_mode>` is the variable's 
+*   `<type>` is optional, as in almost all Pine Script™ variable declarations (see )
+*   `<identifier>` is the variable's 
 *   `<expression>` can be a literal, a variable, an expression or a function call.
 *   `<local_block>` consists of zero or more statements followed by a return value, which can be a tuple of values. It
     must be indented by four spaces or a tab.
@@ -1825,9 +1825,9 @@ The other form does not use an expression as a key; it switches on the evaluatio
 where:
 
 *   Parts enclosed in square brackets (`[]`) can appear zero or one time, and those enclosed in curly braces (`{}`) can appear zero or more times.
-*   `<declaration_mode>` is the variable's [declaration mode](declaration mode)
-*   `<type>` is optional, as in almost all Pine Script™ variable declarations (see [types](types))
-*   `<identifier>` is the variable's [name](name)
+*   `<declaration_mode>` is the variable's 
+*   `<type>` is optional, as in almost all Pine Script™ variable declarations (see )
+*   `<identifier>` is the variable's 
 *   `<expression>` can be a literal, a variable, an expression or a function call.
 *   `<local_block>` consists of zero or more statements followed by a return value, which can be a tuple of values. It must be indented by four spaces or a tab.
 *   The value assigned to the variable is the return value of the `<local_block>`, or `na` if no local block is executed.
@@ -1924,7 +1924,7 @@ else
 
 ![TradingView Logo]
 
-[Variable declarations](link_to_variable_declarations) [Loops](link_to_loops)
+ 
 
 Options v: v5
 
@@ -2269,7 +2269,7 @@ Pine Script™ types identify the nature of a value. They are:
 
 Each fundamental type refers to the nature of the value contained in a variable: `1` is of type "int", `1.0` is of type "float", `"AAPL"` is of type "string", etc. Variables of special types contain an ID referring to an object of the type's name. A variable of type "label" contains an ID (or pointer) referring to a label, and so on. The “void" type means no value is returned.
 
-The Pine Script™ compiler can automatically convert some types into others when a value is not of the required type. The auto-casting rules are: `int` ➡️ `float` ➡️ `bool`. See the [Type casting](Type casting) section of this page for more information on type casting.
+The Pine Script™ compiler can automatically convert some types into others when a value is not of the required type. The auto-casting rules are: `int` ➡️ `float` ➡️ `bool`. See the  section of this page for more information on type casting.
 
 Except for parameter definitions appearing in function signatures, Pine Script™ forms are implicit in code; they are never declared because they are always determined by the compiler. Types, however, can be specified when declaring variables, e.g.:
 
@@ -2292,7 +2292,7 @@ plotchar(xUp, "Cross Up", "A", location.top, size = size.tiny)
 
 Values of "const" form must be known at compile time, before your script has access to any information related to the symbol/timeframe information it is running on. Compilation occurs when you save a script in the Pine Script ™ Editor, which doesn't even require it to already be running on your chart. "const” variables cannot change during the execution of a script.
 
-Variables of "const" form can be initialized using a `literal` value, or calculated from expressions using only `literal` values or other variables of "const” form. Our [Style guide](link) recommends using upper case `SNAKE_CASE` to name variables of "const” form. While it is not a requirement, "const” variables can be declared using the `var` keyword so they are only initialized on the first bar of the dataset. See the [section on `var`](link) for more information.
+Variables of "const" form can be initialized using a `literal` value, or calculated from expressions using only `literal` values or other variables of "const” form. Our  recommends using upper case `SNAKE_CASE` to name variables of "const” form. While it is not a requirement, "const” variables can be declared using the `var` keyword so they are only initialized on the first bar of the dataset. See the  for more information.
 
 These are examples of literal values:
 
@@ -2583,7 +2583,7 @@ type <UDT_identifier>
 ```
 
 where:
-*   `export` is used to export the UDT from a library. See the [Libraries](Libraries) page for more information.
+*   `export` is used to export the UDT from a library. See the  page for more information.
 *   `<UDT_identifier>` is the name of the user-defined type.
 *   `<field_type>` is the type of the field.
 *   `<field name>` is the name of the field.
@@ -2610,7 +2610,7 @@ type pivot Point
     pivotPoint nextPivot
 ```
 
-Two built-in methods can be used with a UDT: `new()` and `copy()`. Read about them in the [Objects](Objects) page.
+Two built-in methods can be used with a UDT: `new()` and `copy()`. Read about them in the  page.
 
 ### void
 
@@ -2685,12 +2685,12 @@ ath := math.max(ath, high)
 
 ## Type templates
 Type templates are used to build array and matrix types. They are a type name enclosed in angle brackets, for
-example: `<int>`, `<label>`, `<pivotPoint>` (where `pivotPoint` is a [user-defined type (UDT)](UDT)). Type templates
+example: `<int>`, `<label>`, `<pivotPoint>` (where `pivotPoint` is a ). Type templates
 can be constructed from:
 
 - Fundamental types: "int", "float", "bool", "color" and "string"
 - The following special types: “line”, “linefill”, “label”, “box”, “table”
-- [User-defined types (UDTs)](UDTs)
+- 
 
 They can be used to declare the type of a variable and in the `array.new<type>` or `matrix.new<type>` function calls
 used to create a new array or matrix:
@@ -2822,9 +2822,9 @@ r = request.security(tId, "", source)
 plot(r)
 ```
 
-![TradingView Logo](TradingView)
 
-[Loops](#) [Built-ins](#)
+
+ 
 
 Options v: v5
 
@@ -2925,7 +2925,7 @@ every function.
 
 Let's look at the `ta.vwma()` function, which returns the volume-weighted moving average of a source value. This is its entry in the Reference Manual:
 
-![ta.vwma function in Reference Manual](image.png)
+
 
 The entry gives us the information we need to use it:
 
@@ -2985,7 +2985,7 @@ indicator(precision = 3, "Example") // Compilation error!
 When calling Pine Script™ built-ins, it is critical to ensure that the arguments you use are of the form and type
 required, which will vary for each parameter.
 
-To learn how to do this, one needs to understand Pine Script™'s [type system](Type system). The Reference Manual entry for each
+To learn how to do this, one needs to understand Pine Script™'s . The Reference Manual entry for each
 built-in function includes an “ARGUMENTS” section which lists the form-type required for the argument supplied to
 each of the function's parameters.
 
@@ -3012,8 +3012,8 @@ You can write your functions in two ways:
 
 Functions can be located in two places:
 
-*   If a function is only used in one script, you can include it in the script where it is used. See our [Style guide](Style guide) for recommendations on where to place functions in your script.
-*   You can create a [Pine Script ™ library](Pine Script ™ library) to include your functions, which makes them reusable in other scripts without having to copy their code. Distinct requirements exist for library functions. They are explained in the page on [libraries](libraries).
+*   If a function is only used in one script, you can include it in the script where it is used. See our  for recommendations on where to place functions in your script.
+*   You can create a  to include your functions, which makes them reusable in other scripts without having to copy their code. Distinct requirements exist for library functions. They are explained in the page on .
 
 Whether they use one line or multiple lines, user-defined functions have the following characteristics:
 
@@ -3282,7 +3282,7 @@ Values can be written to existing individual array elements using `array.set(id,
 The following example uses `array.set()` to initialize an array of colors to instances of one base color using different
 transparency levels. It then fetches the proper array element to use it in a `bgcolor()` call:
 
-![Chart](https://i.imgur.com/tq5r77M.png)
+
 
 ```
 //@version=5
@@ -3739,7 +3739,6 @@ l4 = label.new(bar_index, close, array.join(v4, ","))
 
 Arrays containing "int" or "float" elements can be sorted in either ascending or descending order using `array.sort()`. The `order` parameter is optional and defaults to `order.ascending`. As all `array.*()` function arguments, it is of form "series", so can be determined at runtime, as is done here. Note that in the example, which array is sorted is also determined at runtime:
 
-````markdown
 TESLA INC 1D Cboe BZX
 01860.68 H2021.99 L1857.06 C2001.83 +123.30 (+6.56%)
 
@@ -3765,7 +3764,6 @@ if barstate.islast
     label.new(bar_index, 0,
       "a " + (barUp ? "is sorted ▲: " : "is not sorted: ") + str.tostring(a) + "\n\n" +
       "b " + (barUp ? "is not sorted: " : "is sorted ▼: ") + str.tostring(b), size = size.auto)
-```
 
 Another useful option for sorting arrays is to use the `array.sort_indices()` function, which takes a reference to the original array and returns an array containing the indices from the original array. Please note that this function won't modify the original array. The `order` parameter is optional and defaults to `order.ascending`.
 
@@ -3785,8 +3783,8 @@ User Manual • Language • Objects
 
 # Objects
 
-*   [Introduction](#introduction)
-*   [Creating objects](#creating-objects)
+*   
+*   
 *   Changing field values
 *   Collecting objects
 *   Copying objects
@@ -3807,7 +3805,7 @@ organize different values under one logical entity.
 
 # Creating objects
 
-Before an object can be created, its type must be defined. The [User defined types](User%20defined%20types.md) section of the [Type system](Type%20system.md) page
+Before an object can be created, its type must be defined. The  section of the  page
 explains how to do so.
 
 Let's define a `pivotPoint` type to hold pivot information:
@@ -3932,7 +3930,7 @@ foundPoint.y := pivotHighPrice
 ## Collecting objects
 
 Arrays and matrices can contain objects, allowing users to add virtual dimensions to their data structures. To declare
-object arrays and matrices, use UDT names in [type templates](type templates), which are constructed using angle brackets.
+object arrays and matrices, use UDT names in , which are constructed using angle brackets.
 
 This example declares an empty array that will hold objects of the `pivotPoint` UDT and initializes the
 `pivotHighArray` variable with its ID:
@@ -4248,7 +4246,7 @@ Dec
 Feb
 ☆
 
-```markdown
+```pine
 //@version=5
 indicator("Custom Sample BB", overlay = true)
 ```
@@ -4440,7 +4438,7 @@ Note that:
 
 Here is how the full script example looks now that we've applied our user-defined methods:
 
-```markdown
+```pine
 //@version=5
 indicator("Custom Sample BB", overlay = true)
 ```
@@ -4510,7 +4508,7 @@ we want it to recognize.
 Below, we have defined a `getType()` method that returns a string representation of a variable's type with overloads
 for the five primitive types:
 
-```markdown
+```pine
 // @function Identifies an object's type.
 // @param this Object to inspect.
 // @returns (string) A string representation of the type.
@@ -4540,7 +4538,7 @@ d: color
 e: string
 ```
 
-```markdown
+```pine
 //@version=5
 indicator("Type Inspection")
 // @function Identifies an object's type.
@@ -4590,7 +4588,7 @@ There are many ways in which we could choose to tackle this objective. For this 
 
 Written below is an overload of the built-in `fill()` method for `array<float>` instances. This overload replaces elements in a `srcArray` within the range between the `lowerBound` and `upperBound` with an `innerValue`, and replaces all elements outside the range with an `outerValue`:
 
-```markdown
+```pine
 // @function
 //
 // @param srcArray
@@ -4703,7 +4701,7 @@ int n = input.int(20, "Steps")
 method maintainQueue(array<float> srcArray, float value, bool takeSample = true) =>
 ```
 
-```markdown
+```pine
 if takeSample
     srcArray.push(value)
     srcArray.shift()
@@ -4790,9 +4788,9 @@ array<float> distArray = sourceArray.maintainQueue(sourceInput).featureScale().e
 // Draw label.
 makeLabel (sourceArray, distArray)
 
-![TradingView Logo](image.png)
 
-[Objects](Objects) [Concepts](Concepts)
+
+ 
 
 Options v: v5
 
@@ -5031,7 +5029,7 @@ Options v: v5
 
 ## Introduction
 
-TradingView alerts run 24x7 on our servers and do not require users to be logged in to execute. Alerts are created from the charts user interface (UI). You will find all the information necessary to understand how alerts work and how to create them from the charts UI in the Help Center's [About TradingView alerts page](https://www.tradingview.com/support/solutions/43000524964-about-tradingview-alerts/).
+TradingView alerts run 24x7 on our servers and do not require users to be logged in to execute. Alerts are created from the charts user interface (UI). You will find all the information necessary to understand how alerts work and how to create them from the charts UI in the Help Center's .
 
 Some of the alert types available on TradingView (generic alerts, drawing alerts and script alerts on order fill events) are created from symbols or scripts loaded on the chart and do not require specific coding. Any user can create these types of alerts from the charts UI.
 
@@ -5146,7 +5144,7 @@ When users create a script alert on `alert()` function calls, the alert will tri
 
 Suppose, for our next example, that we want to provide the option of triggering alerts on only longs, only shorts, or both. You could code your script like this:
 
-```markdown
+```pine
 //@version=5
 indicator("Selective `alert()` calls")
 detectLongsInput = input.bool(true, "Detect Longs")
@@ -5436,7 +5434,7 @@ The simplest way to avoid this type of repainting is to configure the triggering
 on the close of the realtime bar. There is no panacea; avoiding this type of repainting always entails waiting for
 confirmed information, which means the trader must sacrifice immediacy to achieve reliability.
 
-Note that other types of repainting such as those documented in our [Repainting](Repainting) section may not be preventable by
+Note that other types of repainting such as those documented in our  section may not be preventable by
 simply triggering alerts on the close of realtime bars.
 
 Options v: v5
@@ -5541,9 +5539,9 @@ Note that:
 *   We provide inputs so the user can change the bull/bear colors, and we place both color input widgets on the same line using `inline = "1"` in both `input.color()` calls.
 *   We plot the CCI signal using two `plot()` calls to achieve the best contrast over the busy background: the first plot is a 3-pixel wide white background, the second `plot()` call plots the thin, 1-pixel wide black line.
 
-See the [Colors](Colors) page for more examples of backgrounds.
+See the  page for more examples of backgrounds.
 
-[Alerts](Alerts) [Bar coloring](Bar coloring)
+ 
 
 
 ---
@@ -5585,9 +5583,9 @@ User Manual • Concepts • Bar plotting
 
 # Bar plotting
 
-*   [Introduction](#introduction)
-*   [Plotting candles with `plotcandle()`](#plotting-candles-with-plotcandle)
-*   [Plotting bars with `plotbar()`](#plotting-bars-with-plotbar)
+*   
+*   
+*   
 
 # Introduction
 
@@ -5940,7 +5938,7 @@ Chart information
 
 Introduction
 
-The way scripts can obtain information about the chart and symbol they are currently running on is through a subset of Pine Script ™'s [built-in variables](https://www.tradingview.com/pine-script-docs/v5/language/Variables/). The ones we cover here allow scripts to access information relating to:
+The way scripts can obtain information about the chart and symbol they are currently running on is through a subset of Pine Script ™'s . The ones we cover here allow scripts to access information relating to:
 
 • The chart's prices and volume
 • The chart's symbol
@@ -6004,7 +6002,7 @@ parameter in `ticker.new()`.
 
 This script will display the values of those built-in variables on the chart:
 
-```markdown
+```pine
 //@version=5
 indicator("`syminfo.*` built-ins", "", true)
 printTable (txtLeft, txtRight) =>
@@ -6060,7 +6058,7 @@ Two additional built-ins return more specific timeframe information:
 *   timeframe.multiplier returns a "simple int" containing the multiplier of the timeframe unit. A chart timeframe of one hour will return `60` because intraday timeframes are expressed in minutes. A 30sec timeframe will return `30` (seconds), a daily chart will return `1` (day), a quarterly chart will return `3` (months), and a yearly chart will return `12` (months). The value of this variable cannot be used as an argument to `timeframe` parameters in built-in functions, as they expect a string in timeframe specifications format.
 *   timeframe.period returns a string in Pine Script™'s timeframe specification format.
 
-See the page on [Timeframes](Timeframes) for more information.
+See the page on  for more information.
 
 ## Session information
 
@@ -6069,9 +6067,9 @@ Session information is available in different forms:
 *   The `syminfo.session` built-in variable returns a value that is either `session.regular` or `session.extended`. It reflects the session setting on the chart for that symbol. If the "Chart settings/Symbol/Session" field is set to "Extended", it will only return "extended" if the symbol and the user's feed allow for extended sessions. It is used when a session type is expected, for example as the argument for the `session` parameter in `ticker.new()`.
 *   Session state built-ins provide information on the trading session a bar belongs to.
 
-![TradingView Logo](TradingView.png)
 
-[Bar states](Bar states) [Colors](Colors)
+
+ 
 
 Options v: v5
 
@@ -6264,7 +6262,7 @@ color to use by evaluating a source value against minimum and maximum values.
 Let's put `color.new(color, transp)` to use to create different transparencies for volume columns using one of two
 bull/bear base colors:
 
-![volume_columns](./volume_columns.png)
+
 
 ```
 color volumeColor = color.new(close > open ? bullColorInput: bearColorInput, transparency)
@@ -6302,7 +6300,7 @@ Note that:
 
 Our last examples of color calculations will use `color.from_gradient(value, bottom_value, top_value, bottom_color, top_color)`. Let's first use it in its simplest form, to color a CCI signal in a version of the indicator that otherwise looks like the built-in:
 
-![CCI line gradient](./image1.png)
+
 
 ```pine
 //@version=5
@@ -6485,7 +6483,7 @@ It is best to use zero transparency to plot the important lines in your visuals,
 
 If you want a special plot to stand out, you can also give it more importance by using multiple plots for the same line. These are examples where we modulate the successive width and transparency of plots to achieve this:
 
-![Study](attachment:study.png)
+
 
 ```
 //@version=5
@@ -6526,7 +6524,7 @@ uses color.purple as its default value. Whether the script user changes that col
 color.new() call to generate a calculated transparency in the plot() call. The second input uses as its default the
 built-in color.blue color we previously used in the plot() call, and simply use it as is in the second plot() call.
 
-![TradingView Logo](https://i.imgur.com/image.png)
+
 
 Chart information Fills
 
@@ -6598,7 +6596,7 @@ fill(oscPlotID, zeroPlotID, color.new(color.blue, 90))
 Because a "series color” can be used as an argument for the color parameter in fill(), you can use constants like
 color.red or #FF001A, as well as expressions calculating the color on each bar, as in this example:
 
-![](./unknown.png)
+
 
 ```
 //@version=5
@@ -6878,7 +6876,7 @@ plot(ma)
 
 The version with the `options` list uses a dropdown menu for its widget. When the `options` parameter is not used, a simple input widget is used to enter the value.
 
-![MA Inputs Options](./crops/crop_2_0.png)
+
 
 ## Float input
 
@@ -6936,15 +6934,7 @@ Note that:
 • We use the `showBBInput` variable in our two `plot()` calls to plot conditionally. When the user unchecks the checkbox of the `showBBInput` input, the variable's value becomes `false`. When that happens, our `plot()` calls plot the `na` value, which displays nothing. We use `true` as the default value of the input, so the BBs plot by default.
 • Because we use the `inline` parameter for the `bbFactorInput` variable, its input field in the "Inputs" tab does not align vertically with that of `maLengthInput`, which doesn't use `inline`.
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAACWBAMAAAB65KfmAAAAHlBMVEX///8AAADExMSHh4fMzMyMjIyYmJiEhIShoaKioqIc3lB2AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADJUlEQVR42u3Xz26VQBgG8J3p2zI9G95l4oHk2gXkF73yA02/QEgL6Cj3V/lR/52W96mG9s/9XyP25o10yYAAAAAAAAAAACY6fC5v9nL5bK/5rL577l8lM9nL57l8qL57j304n35w/9N/35gK/W9d20Xv7P1nL5U335wM6b8H6+f0q422z6xUAAAACAIKxQ6D+34D7r+W4F76/pW1D1n13p/H1l842JvW1L6+1176b9W39t1u4f4l5e31t6m/39S97v1j3e9zX8F4H3m41H6/rQ3zG2z9sAAAAAAAQ4h7C2vP/9U/13q4fQk+971T/Xq5jX27+9V9t68H8E573u4n9/W87n4v3v3M/rX175836W3aP57+e+x7T91AAAAAAA00M53f8j9+Q/71175T9t6u3wJ785m94n987/M7/0U4j7e93n7v617W/sV5v5X5/7/tL5/7Jg3v7EAAAAAAAAAAA8l84y5n+e4j/G/e53976+L50/x3W49z3W78D5w565l9/7F375i6w595R397137v4v231/0325/5r/8v637H9gAAAAAAB5V42k/l25d/q+b37XWvj6x99p/134PzD3g3V496879i/3wX773l1v4O3327+7f17+u4/9gAAAAAA7U6Q3f0e86a98v4H99Q0/t2w+4+o7Pz/938196e3u+v6m9n9/69/9e7/e9r8l9l3n/bAAAAAAAHc+g9v+497/Q7z/Y+t+j6i7u+a7q9Q/o5c8y03+z6n+X5p28b+15n2l1r2t474v7u7v/2AAAAAAAAAAAAAByXqG/k/9k93yMv/p03+58z7+9L77P019V+96k7t9Q1m5L1L4w418k135D/P997v9/wAAAAAAAACe7zY3/4r69k539H2s/f1y5h9m2D57536R7/53788v6/q1a31L3V6q5P7t139375AAAAAAAAAAAAAIeD626c7f7v3n5H0L7H0n0t297i7n053P4B2v79g9o5/L3e7d9q7n5X0/2b2l0723x763n4X3/6AAAAAAAAAAAAAAAAAL6t5j/w/27n6f3n6f1b4f037P03wAAAAAAAAAAAAAAc07620H83Wn+3X383t/t3z/yAAAAAAAAAAAAAAAAAAC08yB0/946/958/914/8t7f815v8AAAAAAAAAAAAAAACAPu0F3H/43X3/333/3Xs/3Po/3PwAAAAAAAAAAAAAAAAAAAK73A3b/3j3/3T3/3D3/3D3/3DgAAAAAAAAAAAAAAAAAAAJVz0uP/5Wz/5Gz/5Sz/5Sz/5SgAAAAAAAAAAAAAAAAAAAB47u5D/7Wv/7mv/7mv/7m0AAAAAAAAAAAAAAAAAAAAAfTzI7/884/884/884/880AAAAAAAAAAAAAAAAAAAAAflzI8f/9dv/9dv/9dv/9dgAAAAAAAAAAAAAAAAAAAAAB1Ua8H//nX//nX//nX//nAADgAAAAAAAAAAAAAAAAAADA5h3y//39//39//39//38AAA4AAAAAAAAAAAAAAAAAAACY7xH9P//7P//7P//7P//7AAAIAAAAAAAAAAAAAAAAAAAB8i4D8z//+/z//+/z//+/zAAAgAAAAAAAAAAAAAAAAAAAByLgPxn//3//3//3//3//3AAAAgAAAAAAAAAAAAAAAAAAAHg6AvCf//v//v//v//v//vAAAAgAAAAAAAAAAAAAAAAAAAHg+gPif//v//v//v//v//vAAAIAAAAAAAAAAAAAAAAAAAC40gPmf//3//3//3//3//3AAAAgAAAAAAAAAAAAAAAAAAADa1wPu///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAADu0gPw///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAAHyYgPq///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAAjl0I6j///v///v///v///vAAAAgAAAAAAAAAAAAAAAAAAAKa5COs///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAAJq1CO0///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAAjlkI5D///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAACW3COQ///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAAlU0I4j///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAAJXJCPg///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAAkUYI3j///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAAJFIEO0///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAAj10G3j///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAAJHUG2j///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAAgFYGbz///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAADiigW8///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAAgkMHbz///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAACF9EXb///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAAB4oHXb///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAAB8XHVr///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAAB2cHXn///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAAB70HVf///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAAB5SHVX///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAAB1+HVN///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABzCHVJ///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABw0HVH///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABvIHU///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABrSHUL///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABq4HUM///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABp8HUJ///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABpEHUI///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABmQHT7///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABlyHT3///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABmQHTz///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABlAHTv///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABkEHTj///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABj8HTf///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABi4HTd///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABiUHTc///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABh+HTb///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABhUHTa///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABhAHTa///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABfwHTZ///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABe8HTY///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABesHTX///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABeoHTW///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABeqHTV///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABepHTU///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABemHTU///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABemHTT///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABekHTS///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABekHTS///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABekHTR///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABekHTQ///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABeckHTQ///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABeckHTP///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUHTP///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABecUHTO///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUHTN///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABecUHTM///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUHTL///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABecUHTL///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUHTK///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABecUHTK///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUHTJ///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABecUHTJ///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUHTI///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABecUHTI///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUHTH///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABecUHTH///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUHTG///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABecUHTG///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUHTF///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABecUHTF///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUHTE///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABecUHTE///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTD///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABecUDTD///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///3///3///3///3AAAAgAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7AAAIAAAAAAAAAAAAAAAAAAAABecUDTC///7///7
-
----
-
-User Manual • Concepts Levels
-
-# Levels
-
-*   `hline()` levels
+` levels
 *   Fills between levels
 
 `hline()` levels
@@ -7329,7 +7319,7 @@ library's functions in your publication's code will also help.
 
 House Rules
 
-Pine libraries are considered public domain code in our [House Rules on Script Publishing](https://www.tradingview.com/house-rules.html#h2-section-scriptpublishing), which entails that, contrary
+Pine libraries are considered public domain code in our , which entails that, contrary
 to open-source indicators and strategies, permission is not required from their author if you reuse their functions in
 your open-source scripts. If you intend to reuse code from a Pine Script ™ library's functions in a public, closed-source
 publication (protected or invite-only), explicit permission for reuse in that form is required from its author.
@@ -7542,7 +7532,7 @@ Is the line's color.
 
 `style`
 
-Is the style of line. See this page's [Line styles](link) section.
+Is the style of line. See this page's  section.
 
 `width`
 
@@ -7550,7 +7540,7 @@ Determines the width of the line in pixels.
 
 This is how you can create lines in their simplest form. We connect the preceding bar's `high` to the current bar's `low`:
 
-```markdown
+```pine
 //@version=5
 indicator("", "", true)
 line.new(bar_index - 1, high[1], bar_index, low, width = 3)
@@ -7621,7 +7611,7 @@ where:
 
 In the next example we display a line showing the highest `high` value in the last `lookbackInput` bars. We will be using setter functions to modify an existing line:
 
-```markdown
+```pine
 //@version=5
 MAX BARS BACK = 500
 indicator("Last high", "", true, max bars back = MAX BARS BACK)
@@ -7732,7 +7722,7 @@ The `line.delete()` function is used to delete lines. Its syntax is:
 
 To keep only a user-defined quantity of lines on the chart, one could use code like this, where we are dawing a level every time RSI rises/falls for a user-defined quantity of consecutive bars:
 
-```markdown
+```pine
 //@version=5
 int MAX_LINES_COUNT = 500
 indicator("RSI levels", max_lines_count = MAX_LINES_COUNT)
@@ -7765,7 +7755,7 @@ plotchar(myRSIFalls, "myRSIFalls", "▼", location.bottom, color.red, size = siz
 Note that:
 * We define a `MAX_LINES_COUNT` constant to hold the maximum quantity of lines a script can accommodate. We use that value to set the `max_lines_count` parameter's value in our `indicator()` call, and also as the `maxval` value in our `input.int()` call, to cap the user value.
 * We use the `myRSIRises` and `myRSIFalls` variables to hold the states determining when we create a new level. After that, we delete the oldest line in the `line.all` built-in array that is automatically maintained by the Pine Script™ runtime and contains the ID of all the visible lines drawn by our script. We use the `array.get()` function to retrieve the array element at index zero (the oldest visible line ID). We then use `line.delete()` to delete the line referenced by that ID.
-* Again, we need to artificially return `int(na)` in both local blocks of our `if` structure so the compiler doesn't not complain. See the [Matching local block type requiremement](https://www.tradingview.com/pine-script-docs/en/v5/language/Type_system.html#page-localblocktyperequirement) section for more information.
+* Again, we need to artificially return `int(na)` in both local blocks of our `if` structure so the compiler doesn't not complain. See the  section for more information.
 * This time, we mention the type of variables explicitly when we declare them, as in
 `float myRSI = ta.rsi(close, 20)`. The declarations are functionally redundant, but they can help make your intention clear to readers of your code – you being the one who will read it the most frequently.
 
@@ -7824,7 +7814,7 @@ Is the background color of the box. It defaults to `color.blue`.
 
 Let's create simple boxes:
 
-```markdown
+```pine
 //@version=5
 indicator("", "", true)
 ```
@@ -7891,7 +7881,7 @@ USD
 
 12:00 26 12:00 27 12:00 28 12:00 29 12:00
 
-```markdown
+```pine
 //@version=5
 indicator("High volume bar boxes", "", true)
 ```
@@ -7958,7 +7948,7 @@ Note that:
 
 This script plots Heikin-Ashi candles under the chart:
 
-![Heikin-Ashi Candles Chart](image.png)
+
 
 ```
 //@version=5
@@ -8058,7 +8048,7 @@ were generated from tick data.
 
 The `plot()` function is the most frequently used function used to display information calculated using Pine scripts. It is versatile and can plot different styles of lines, histograms, areas, columns (like volume columns), fills, circles or crosses.
 
-The use of `plot()` to create fills is explained in the page on [Fills](Fills).
+The use of `plot()` to create fills is explained in the page on .
 
 This script showcases a few different uses of `plot()` in an overlay script:
 
@@ -8317,7 +8307,7 @@ Note that:
 
 ## Levels
 
-Pine Script™ has an `hline()` function to plot horizontal lines (see the page on [Levels](Levels)). `hline()` is useful because it has some line styles unavailable with `plot()`, but it also has some limitations, namely that it does not accept "series color", and that its `price` parameter requires an "input int/float”, so cannot vary during the script's execution.
+Pine Script™ has an `hline()` function to plot horizontal lines (see the page on ). `hline()` is useful because it has some line styles unavailable with `plot()`, but it also has some limitations, namely that it does not accept "series color", and that its `price` parameter requires an "input int/float”, so cannot vary during the script's execution.
 
 You can plot levels with `plot()` in a few different ways. This shows a CCI indicator with levels plotted using `plot()`:
 
@@ -8795,7 +8785,7 @@ The best solution to this problem when developing script for others is to plot w
 the option for script users to turn on plotting in the past through inputs, so they are necessarily aware of what the
 script is doing, e.g.:
 
-```markdown
+```pine
 //@version=5
 indicator("Plotting in the past", "", true)
 plotInThePast = input(false, "Plot in the past")
@@ -9094,11 +9084,11 @@ The `strategy("test")` line states that the script is a strategy named “test�
 
 To test your strategy, apply it to the chart. Use the symbol and time intervals that you want to test. You can use a built-in strategy from the Indicators & Strategies dialog box, or write your own.
 
-![](./strategy.png)
+
 
 **Note**
 
-When applying strategies to [non-standard charts](https://www.tradingview.com/support/solutions/43000536362-strategies-on-non-standard-charts/) (Heikin Ashi, Renko, etc.), it is very important to realize that results will not reflect real market conditions. Orders on these types of charts will be executed at the synthetic price levels used on these charts, which often do not reflect real market prices and thus lead to unrealistic backtesting results. We therefore highly recommend using only standard chart types for backtesting strategies.
+When applying strategies to  (Heikin Ashi, Renko, etc.), it is very important to realize that results will not reflect real market conditions. Orders on these types of charts will be executed at the synthetic price levels used on these charts, which often do not reflect real market prices and thus lead to unrealistic backtesting results. We therefore highly recommend using only standard chart types for backtesting strategies.
 
 ## Backtesting and forwardtesting
 
@@ -9496,7 +9486,7 @@ Step #9 * 4
 
 To examine this calculation in detail, let's add the built-in Supertrend Strategy to the NASDAQ:TSLA chart on the 1D timeframe. Set Order size to 300% of equity and Margin for long positions to 25%.
 
-![Tesla, Inc. 1D NASDAQ TradingView Supertrend Strategy 10 3](image.png)
+
 
 Our first entry happened on the opening of the bar on 16 Sep 2010. We buy 682438 units (Position size) for 4.43 USD (Entry price). Then, on 23 Sep 2010, when the price was at 3.9 (Current price), 111052 units were forcibly liquidated via margin call.
 
@@ -9759,10 +9749,10 @@ Note that:
 • Keep in mind that successive calls to `table.cell()` overwrite the cell's properties specified by previous `table.cell()` calls. Use the setter functions to modify a cell's properties.
 • Remember to control the execution of your table code wisely by restricting it to the necessary bars only. This saves server resources and your charts will display faster, so everybody wins.
 
-![TradingView](https://user-images.githubusercontent.com/78428888/278696949-c4400a63-02e3-4082-ab6d-e85933538e6f.png)
 
-[Strategies](https://www.tradingview.com/)
-[Text and shapes](https://www.tradingview.com/)
+
+
+
 
 
 ---
@@ -9807,7 +9797,7 @@ These are a few things to keep in mind concerning Pine Script ™ strings:
 • Since the `text` parameter in both `plotchar()` and `plotshape()` require a "const string" argument, it cannot contain values such as prices that can only be known on the bar ("series string").
 • To include “series” values in text displayed using `label.new()`, they will first need to be converted to strings using `str.tostring()`.
 • The concatenation operator for strings in Pine Script™ is `+`. It is used to join string components into one string, e.g., `msg = "Chart symbol: " + syminfo.tickerid` (where `syminfo.tickerid` is a Pine Script™ built-in variable that returns the chart's exchange and symbol information in string format).
-• Characters displayed by all these functions can be Unicode characters, which may include Unicode symbols. See this [Exploring Unicode](https://www.tradingview.com/script/XyJj9z2O-Exploring-Unicode/) script to get an idea of what can be done with Unicode characters.
+• Characters displayed by all these functions can be Unicode characters, which may include Unicode symbols. See this  script to get an idea of what can be done with Unicode characters.
 • The color or size of text can sometimes be controlled using function parameters, but no inline formatting (bold, italics, monospace, etc.) is possible.
 • Text from Pine scripts always displays on the chart in the Trebuchet MS font, which is used in many TradingView texts, including this one.
 
@@ -9843,13 +9833,7 @@ This function is useful to display a single character on bars. It has the follow
 
 `plotchar(series, title, char, location, color, offset, text, textcolor, editable, size)`
 
-See the [Reference Manual entry for plotchar()]( for details on its parameters.
-
-As explained in the When the script's scale must be preserved section of our page on Debugging, the function can be used to display and inspect values in the Data Window or in the indicator values displayed to the right of the script's name on the chart:
-
-```pine
-//@version=5
-indicator("", "", true)
+See the 
 plotchar(bar_index, "Bar index", "", location.top)
 ```
 
@@ -9891,7 +9875,7 @@ This method has the inconvenience that, since there is no relative positioning m
 This function is useful to display pre-defined shapes and/or text on bars. It has the following syntax:
 
 plotshape (series, title, style, location, color, offset, text, textcolor, editable, siz
-See the [Reference Manual entry for plotshape()](https://www.tradingview.com/pine-script-reference/v5/#fun_plotshape) for details on its parameters.
+See the  for details on its parameters.
 
 Let's use the function to achieve more or less the same result as with our second example of the previous section:
 
@@ -10042,7 +10026,7 @@ the function's first argument. It has the following syntax:
 
 `plotarrow(series, title, colorup, colordown, offset, minheight, maxheight, editable, sh`
 
-See the [Reference Manual entry for plotarrow()](Reference Manual entry for plotarrow()) for details on its parameters.
+See the ) for details on its parameters.
 The `series` parameter in `plotarrow()` is not a “series bool" as in `plotchar()` and `plotshape()`; it is a "series int/float" and there's more to it than a simple `true` or `false` value determining when the arrows are plotted. This is the
 logic governing how the argument supplied to `series` affects the behavior of `plotarrow()`:
 
@@ -10061,7 +10045,7 @@ body = close - open
 plotarrow(body, colorup = color.teal, colordown = color.orange)
 ```
 
-![Chart with arrows](image.png)
+
 
 Note how the heigth of arrows is proportional to the relative size of the bar bodies.
 
@@ -10276,9 +10260,9 @@ These are the available `style` arguments:
 | `label.style_arrowup`      | ⬆     | text            | `label.style_label_center`    | 🗐     | Tex             |
 | `label.style_arrowdown`    | ⬇     | text            | `label.style_none`            |       | tex             |
 
-When using `xloc.bar_time`, the x value must be a UNIX timestamp in milliseconds. See the page on [Time](Time) for more
+When using `xloc.bar_time`, the x value must be a UNIX timestamp in milliseconds. See the page on  for more
 information. The start time of the current bar can be obtained from the `time` built-in variable. The bar time of
-previous bars is `time[1]`, `time[2]` and so on. Time can also be set to an absolute value with the [timestamp](timestamp)
+previous bars is `time[1]`, `time[2]` and so on. Time can also be set to an absolute value with the 
 function. You may add or subtract periods of time to achieve relative time offset.
 
 Let's position a label one day ago from the date on the last bar:
@@ -10387,32 +10371,14 @@ Labels are subject to both commit and rollback actions, which affect the behavio
 
 This script demonstrates the effect of rollback when running in the realtime bar:
 
-```markdown
+```pine
 //@version=5
 indicator("", "", true)
 `label.new`(bar_index, high)
+```
 
 On realtime bars, `label.new()` creates a new label on every script update, but because of the rollback process, the label created on the previous update on the same bar is deleted. Only the last label created before the realtime bar's close will be committed, and thus persist.
 
-![TradingView Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAApAAAAGlCAIAAAAQ8b6kAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAOIAAADiAA6y3nTAAAgAElEQVR4nO2deZBU13nHn3w+RkQ4h2MhQkRIg3s09iP2Z2u72iS7u2v7o6v7u7s/sLtb27u7s6vdnZ2rU1pE/vE0qKqgN953fPve878E0wSJKAAhY6k6w2w27jN2fOc/z3uB5kAAO+g+4qM/n/c5y+04w9+KIlG44L45A8/4h4u4wYc104xVz6iN33C/hQv6+Ea/G+L/K+MeaUcUc0q4q55RN1/CfjxR5Yw4YgVd6qj7/Hn7oM36qNf/qM/wNf64+46e4+i41y45U0y4k6/q044r0w
-
----
-
-User Manual • Concepts • Time
-
-# Time
-
-- Introduction
-- Four references
-- Time built-ins
-- Time zones
-    - Time zone strings
-- Time variables
-    - `time` and `time_close`
-    - `time_tradingday`
-    - `timenow`
-    - Calendar dates and times
-    - `syminfo.timezone()`
 - Time functions
     - `time()` and `time_close()`
         - Testing for sessions
@@ -10466,7 +10432,7 @@ instrument is traded, there is no `chart.timezone` equivalent.
 When displaying times on the chart, this shows one way of providing users a way of adjusting your script's time values
 to those of their chart. This way, your displayed times can match the time zone used by traders on their chart:
 
-```markdown
+```pine
 //@version=5
 indicator("Time zone control")
 MS_IN_1H = 1000 * 60 * 60
@@ -10513,7 +10479,7 @@ Note that:
 
 # Time zone strings
 
-The argument used for the `timezone` parameter in functions such as `time()`, `timestamp()`, `hour()`, etc., can be in different formats, which you can find in the [IANA time zone database name](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) reference page. Contents from the "TZ database name”, “UTC offset ±hh:mm" and "UTC DST offset ±hh:mm" columns of that page's table can be used.
+The argument used for the `timezone` parameter in functions such as `time()`, `timestamp()`, `hour()`, etc., can be in different formats, which you can find in the  reference page. Contents from the "TZ database name”, “UTC offset ±hh:mm" and "UTC DST offset ±hh:mm" columns of that page's table can be used.
 
 To express an offset of +5.5 hours from UTC, these strings found in the reference page are all equivalent:
 
@@ -10530,7 +10496,7 @@ Non-fractional offsets can be expressed in the `"GMT+5"` form. `"GMT+5.5"` is no
 
 Let's start by plotting `time` and `time_close`, the Unix timestamp in milliseconds of the bar's opening and closing time:
 
-![Time and Time close values on bars](https://i.imgur.com/mD4V0bI.png)
+
 
 ```pine
 //@version=5
@@ -10541,7 +10507,7 @@ plot(time_close, "`time_close`")
 
 Note that:
 
-- The `time` and `time_close` variables returns a timestamp in [UNIX time](https://en.wikipedia.org/wiki/Unix_time), which is independent of the timezone selected by the user on his chart. In this case, the chart's time zone setting is the exchange time zone, so whatever symbol is on the chart, its exchange time zone will be used to display the date and time values on the chart's cursor. The NASDAQ's time zone is UTC-4, but this only affects the chart's display of date/time values; it does not impact the values plotted by the script.
+- The `time` and `time_close` variables returns a timestamp in , which is independent of the timezone selected by the user on his chart. In this case, the chart's time zone setting is the exchange time zone, so whatever symbol is on the chart, its exchange time zone will be used to display the date and time values on the chart's cursor. The NASDAQ's time zone is UTC-4, but this only affects the chart's display of date/time values; it does not impact the values plotted by the script.
 - The last `time` value for the plot shown in the scale is the number of milliseconds elapsed from 00:00:00 UTC, 1
 January, 1970, until the bar's opening time. It corresponds to 17:30 on the 27th of September 2021. However,
 because the chart uses the UTC-4 time zone (the NASDAQ's time zone), it displays the 13:30 time, four hours
@@ -10836,9 +10802,9 @@ TradingView
 
 # Timeframes
 
-*   [Introduction](#introduction)
-*   [Timeframe string specifications](#timeframe-string-specifications)
-*   [Comparing timeframes](#comparing-timeframes)
+*   
+*   
+*   
 
 ## Introduction
 
@@ -10848,11 +10814,11 @@ Programmers interested in accessing data from multiple timeframes will need to b
 
 Timeframe strings come into play in different contexts:
 
-*   They must be used in `request.security()` when requesting data from another symbol and/or timeframe. See the page on [Other timeframes and data](other_timeframes_and_data.md) to explore the use of `request.security()`.
-*   They can be used as an argument to `time()` and `time_close()` functions, to return the time of a higher timeframe bar. This, in turn, can be used to detect changes in higher timeframes from the chart's timeframe without using `request.security()`. See the [Testing for changes in higher timeframes](testing_for_changes_in_higher_timeframes.md) section to see how to do this.
-*   The `input.timeframe()` function provides a way to allow script users to define a timeframe through a script's "Inputs" tab (see the [Timeframe input](timeframe_input.md) section for more information).
+*   They must be used in `request.security()` when requesting data from another symbol and/or timeframe. See the page on  to explore the use of `request.security()`.
+*   They can be used as an argument to `time()` and `time_close()` functions, to return the time of a higher timeframe bar. This, in turn, can be used to detect changes in higher timeframes from the chart's timeframe without using `request.security()`. See the  section to see how to do this.
+*   The `input.timeframe()` function provides a way to allow script users to define a timeframe through a script's "Inputs" tab (see the  section for more information).
 *   The `indicator()` declaration statement has an optional `timeframe` parameter that can be used to provide multi-timeframe capabilities to simple scripts without using `request.security()`.
-*   Many built-in variables provide information on the timeframe used by the chart the script is running on. See the [Chart timeframe](chart_timeframe.md) section for more information on them, including `timeframe.period` which returns a string in Pine Script™'s timeframe specification format.
+*   Many built-in variables provide information on the timeframe used by the chart the script is running on. See the  section for more information on them, including `timeframe.period` which returns a string in Pine Script™'s timeframe specification format.
 
 ## Timeframe string specifications
 
@@ -10871,7 +10837,7 @@ Timeframe strings follow these rules:
 
 ## Comparing timeframes
 
-It can be useful to compare different timeframe strings to determine, for example, if the timeframe used on the chart is lower than the higher timeframes used in the script, as using timeframes lower than the chart is usually not a good idea. See the [Requesting data of a lower timeframe](Requesting data of a lower timeframe) section for more information on the subject.
+It can be useful to compare different timeframe strings to determine, for example, if the timeframe used on the chart is lower than the higher timeframes used in the script, as using timeframes lower than the chart is usually not a good idea. See the  section for more information on the subject.
 
 Converting timeframe strings to a representation in fractional minutes provides a way to compare them using a universal unit. This script uses the `timeframe.in_seconds()` function to convert a timeframe into float seconds and then converts the result into minutes:
 
@@ -11008,7 +10974,7 @@ Introduction
 
 This style guide provides recommendations on how to name variables and organize your Pine scripts in a standard way that works well. Scripts that follow our best practices will be easier to read, understand and maintain.
 
-You can see scripts using these guidelines published from the [TradingView](https://www.tradingview.com/) and [PineCoders](https://www.pinecoders.com/) accounts on the platform.
+You can see scripts using these guidelines published from the  and  accounts on the platform.
 
 Naming Conventions
 
@@ -11020,7 +10986,7 @@ We recommend the use of:
 
 # Script organization
 
-The Pine Script™ compiler is quite forgiving of the positioning of specific statements or the version [compiler annotation](compiler annotation) in the script. While other arrangements are syntactically correct, this is how we recommend organizing scripts:
+The Pine Script™ compiler is quite forgiving of the positioning of specific statements or the version  in the script. While other arrangements are syntactically correct, this is how we recommend organizing scripts:
 
 ```
 <license>
@@ -11040,7 +11006,7 @@ The Pine Script™ compiler is quite forgiving of the positioning of specific st
 
 If you publish your open-source scripts publicly on TradingView (scripts can also be published privately), your open-source code is by default protected by the Mozilla license. You may choose any other license you prefer.
 
-The reuse of code from those scripts is governed by our [House Rules on Script Publishing](House Rules on Script Publishing) which preempt the author's license.
+The reuse of code from those scripts is governed by our  which preempt the author's license.
 
 The standard license comments appearing at the beginning of scripts are:
 
@@ -11052,7 +11018,7 @@ username
 
 ## <version>
 
-This is the [compiler annotation](compiler annotation) defining the version of Pine Script™ the script will use. If none is present, v1 is used. For v5, use:
+This is the  defining the version of Pine Script™ the script will use. If none is present, v1 is used. For v5, use:
 
 ```
 //@version=5
@@ -11146,7 +11112,7 @@ code, which entails they can't always be placed in the `<function_declarations>`
 variables should ideally be documented in the function's comments.
 
 It will also help readers if you document the function's objective, parameters and result. The same syntax used in
-[libraries](https://www.tradingview.com/pine-script-docs/v5/concepts/Libraries/) can be used to document your functions. This can make it easier to port your functions to a library should
+ can be used to document your functions. This can make it easier to port your functions to a library should
 you ever decide to do so.
 
 ```
@@ -11188,7 +11154,7 @@ Strategies are easier to read when strategy calls are grouped in the same sectio
 
 <visuals>
 This section should ideally include all the statements producing the script's visuals, whether they be plots, drawings,
-background colors, candle-plotting, etc. See the Pine Script ™ User Manual's section on [here](here) for more information on
+background colors, candle-plotting, etc. See the Pine Script ™ User Manual's section on  for more information on
 how the relative depth of visuals is determined.
 
 <alerts>
@@ -11240,9 +11206,9 @@ color COLOR_GOLD  = #CCCC00ff
 
 Including the type of variables when declaring them is not required and is usually overkill for small scripts; we do not systematically use it. It can be useful to make the type of a function's result clearer, and to distinguish a variable's declaration (using `=`) from its reassignments (using `:=`). Using explicit typing can also make it easier for readers to find their way in larger scripts.
 
-![TradingView Logo](TradingView)
 
-[Writing scripts](Writing scripts) [Debugging](Debugging)
+
+ 
 
 Options v: v5
 
@@ -11326,7 +11292,7 @@ plot(bar_index, "Bar Index")
 
 Running the script on a dataset containing a large number of bars yields the following display:
 
-![chart_image](https://i.imgur.com/example.png)
+
 
 where:
 
@@ -11350,7 +11316,7 @@ plot(r, "RSI", color.black)
 plotchar(bar_index, "Bar index", "", location.top)
 ```
 
-![chart_image](https://i.imgur.com/example.png)
+
 
 where:
 
@@ -11665,7 +11631,6 @@ print(stringName)
 
 As we use AutoHotkey for Windows to speed repetitive tasks, we include these lines in our AutoHotkey script (this is not Pine Script ™ code):
 
-```markdown
 ; This is AHK code, not Pine Script™.
 `^+f:: SendInput plotchar(^v, "^v", "", location.top, size = size.tiny) {Return}`
 `^+p:: SendInput print(txt) => var lbl = label.new(bar_index, na, txt, xloc.bar_index,`
@@ -11713,8 +11678,8 @@ If you write scripts for your personal use, there is no need to publish them; yo
 
 When you publish a script, you control its visibility and access:
 
-*   Visibility is controlled by choosing to publish publicly or privately. See [How do private ideas and scripts differ from public ones?](link) in the Help Center for more details. Publish publicly when you have written a script you think can be useful to TradingViewers. Public scripts are subject to moderation. To avoid moderation, ensure your publication complies with our [House Rules](link) and [Script Publishing Rules](link). Publish privately when you don't want your script visible to all other users, but want to share it with a few friends.
-*   Access determines if users will see your source code, and how they will be able to use your script. There are three access types: open, protected (reserved to paid accounts) or invite-only (reserved to Premium accounts). See [What are the different types of published scripts?](link) in the Help Center for more details.
+*   Visibility is controlled by choosing to publish publicly or privately. See  in the Help Center for more details. Publish publicly when you have written a script you think can be useful to TradingViewers. Public scripts are subject to moderation. To avoid moderation, ensure your publication complies with our  and . Publish privately when you don't want your script visible to all other users, but want to share it with a few friends.
+*   Access determines if users will see your source code, and how they will be able to use your script. There are three access types: open, protected (reserved to paid accounts) or invite-only (reserved to Premium accounts). See  in the Help Center for more details.
 
 # When you publish a script
 
@@ -11734,9 +11699,9 @@ When you publish a script, you control its visibility and access:
 
 When you publish a public script:
 
-*   Your script will be inluded in our [Community Scripts](Community Scripts) where it becomes visible to the millions of TradingViewers on all internationalized versions of the site.
-*   Your publication must comply with [House Rules](House Rules) and [Script Publishing Rules](Script Publishing Rules).
-*   If your script is an invite-only script, you must comply with our [Vendor Requirements](Vendor Requirements).
+*   Your script will be inluded in our  where it becomes visible to the millions of TradingViewers on all internationalized versions of the site.
+*   Your publication must comply with  and .
+*   If your script is an invite-only script, you must comply with our .
 *   It becomes accessible through the search functions for scripts.
 *   You will not be able to edit your original description or its title, nor change its public/private visibility, nor its access type (open-source, protected, invite-only).
 *   You will not be able to delete your publication.
@@ -11759,7 +11724,7 @@ Public or private scripts can be published using one of three access types: open
 
 ## Open
 
-The Pine Script ™ code of scripts published **open** is visible to all users. Open-source scripts on TradingView use the Mozilla license by default, but you may choose any license you want. You can find information on licensing at [GitHub](GitHub).
+The Pine Script ™ code of scripts published **open** is visible to all users. Open-source scripts on TradingView use the Mozilla license by default, but you may choose any license you want. You can find information on licensing at .
 
 ## Protected
 
@@ -11770,8 +11735,7 @@ public protected scripts.
 ## Invite-only
 The invite-only access type protects both the script's code and its use. The publisher of an invite-only script must
 explicitly grant access to individual users. Invite-only scripts are mostly used by script vendors providing paid access
-to their scripts. Only Premium accounts can publish invite-only scripts, and they must comply with our [Vendor
-Requirements](https://www.tradingview.com/house-rules.vendor-requirements/).
+to their scripts. Only Premium accounts can publish invite-only scripts, and they must comply with our .
 
 TradingView does not benefit from script sales. Transactions concerning invite-only scripts are strictly between users
 and vendors; they do not involve TradingView.
@@ -11788,7 +11752,7 @@ authors to control who has access to their script.
 to validate what your final publication will look like. You can edit the title, description, code or chart of private
 publications, and contrary to public scripts, you can delete private scripts when you don't need them anymore,
 so they are the perfect way to practice before sharing a script publicly. You can read more about preparing
-script descriptions in the [How We Write and Format Script Descriptions](https://www.tradingview.com/blog/en/how-we-write-and-format-script-descriptions-22135/) publication.
+script descriptions in the  publication.
 2. Prepare your chart. Load your script on the chart and remove other scripts or drawings that won't help users
 understand your script. Your script's plots should be easy to identify on the chart that will be published with it.
 3. Load your code in the Pine Editor if it isn't already. In the Editor, click the "Publish Script” button:
@@ -11896,22 +11860,7 @@ If you intend to update both the code and chart of your published script, prepar
 1. As you would for a new publication, load your script in the Editor and click the "Publish Script” button.
 2. Once in the "Publish Script" window, select the "Update Existing Script" button. Then select the script to update from the "Choose script" dropdown menu:
 
-![Publish Script Dialog](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAApwAAAGwCAYAAADYj3JIAAABYUlEQVR4nO3dUU7DQBiE4Qo66o+iU+1fMAl8B6LdY+l9H7t6V8c4s40mI9Yc5rGjRo0aNWLhU2r/e8nKk2wVw38vS+G3o63i678c7g/fL9673O+9P8cO3j74k99m98a/4m8g/xY9+0/gBw/U//+G780//1W/g4w/W/+P2/w8Afq//9d3o//1n/hwA/R//+V70//yvfwIA30f//le9H/8X78AAN9H//5XvR//jHfgAA/0f//Fe9H/+Zd+AAD/q//+l29H/+Zd+AAD/q//+V29H//iHfgAA/6v//le9H/+V78AAN+r//5XvR//1n/gwA36//+le9H//W/gwA36//+lW9H//mXfgAA36//+lW9H/+Zd+AADfq//+lW9H/+iHfgAA36//+lW9H/+iHfgAA36v//pVvR//K9+AADfq//+lW9H//Wf+DADfq//+lW9H//mXfgAA36v//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9Z/4MAbqv//lW9H/9
-
----
-
-# Limitations
-
-- Introduction
-- Time
-    - Script compilation
-    - Script execution
-    - Loop execution
-- Chart visuals
-    - Plot limits
-    - Line, box, and label limits
-    - Table limits
-- `request.*()` calls
+` calls
     - Number of calls
     - Intrabars
     - Tuple element limit
@@ -11928,7 +11877,7 @@ If you intend to update both the code and chart of your published script, prepar
 
 ## Introduction
 
-As is mentioned in our [Welcome page](Welcome page):
+As is mentioned in our :
 
 Because each script uses computational resources in the cloud, we must impose limits in order to share these resources fairly among our users. We strive to set as few limits as possible, but will of course have to implement as many as needed for the platform to run smoothly. Limitations apply to the amount of data requested from additional symbols, execution time, memory usage and script size.
 
@@ -12253,29 +12202,7 @@ number of chart bars is:
 A maximum of 9000 orders can be placed when backtesting strategies. When using Deep Backtesting, the limit is
 200,000.
 
-![TradingView Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABI4AAAFpCAYAAACk3I2QAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAACwMSURBVHhe7d0LbuVJ+B6/g3eY/J2e32+n8Jt0Q+xV3xP8/g2xYkIkkkAAEEvH497e7LzXl33eS1fV6hEkkkAAEkpIIAABJIySAgAASUkAAAggZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAAggoZAQACCCllAAIIKGUAA
-
----
-
-User Manual • FAQ
-
-FAQ
-
-*   Get real OHLC price on a Heikin Ashi chart
-*   Get non-standard OHLC values on a standard chart
-*   Plot arrows on the chart
-*   Plot a dynamic horizontal line
-*   Plot a vertical line on condition
-*   Access the previous value
-*   Get a 5-days high
-*   Count bars in a dataset
-*   Enumerate bars in a day
-*   Find the highest and lowest values for the entire dataset
-*   Query the last non-na value
-
-## Get real OHLC price on a Heikin Ashi chart
-
-Suppose, we have a Heikin Ashi chart (or Renko, Kagi, PriceBreak etc) and we've added a pine script on it:
+ and we've added a pine script on it:
 
 ```
 //@version=5
@@ -12466,7 +12393,7 @@ plot(series, style = plot.style_linebr, color = color.red) // series has na valu
 plot(vw) // all na values are replaced with the last non-empty value
 ```
 
-![TradingView Logo](image.png)
+
 
 Limitations Error messages
 
@@ -12722,12 +12649,12 @@ plot(f(301))
 When using drawings that refer to previous bars through `bar_index[n]` and `xloc = xloc.bar_index`, the time
 series received from this bar will be used to position the drawings on the time axis. Therefore, if it is impossible to
 determine the correct size of the buffer, this error may occur. To avoid this, you need to use
-`max_bars_back(time, n)`. This behavior is described in more detail in the section about [drawings](drawings).
+`max_bars_back(time, n)`. This behavior is described in more detail in the section about .
 
-![TradingView Logo](TradingView)
 
-[FAQ](FAQ)
-[Release notes](Release notes)
+
+
+
 
 Options v: v5
 
@@ -13263,7 +13190,7 @@ Pine Script ™ v5 is here! This is a list of the new features added to the lang
 
 ## New features
 
-Libraries are a new type of publication. They allow you to create custom functions for reuse in other scripts. See this manual's page on [Libraries](Libraries).
+Libraries are a new type of publication. They allow you to create custom functions for reuse in other scripts. See this manual's page on .
 
 Pine Script ™ now supports switch structures! They provide a more convenient and readable alternative to long ternary operators and if statements.
 
@@ -13318,18 +13245,7 @@ New parameter has been added for the `dividends()`, `earnings()`, `financial()`,
 
 New argument for `time` and `time_close` functions was added:
 
-*   `timezone` - timezone of the session argument, can only be used when a session is specified. Can be written out in GMT notation (e.g. "GMT-5") or as an [IANA time zone database name](https://
-
----
-
-# Migration guides
-
-- To Pine Script ™ version 5
-    - Introduction
-    - v4 to v5 converter
-    - Renamed functions and variables
-    - Renamed function parameters
-    - Removed an `rsi()` overload
+*   `timezone` - timezone of the session argument, can only be used when a session is specified. Can be written out in GMT notation (e.g. "GMT-5") or as an ` overload
     - Reserved keywords
     - Removed `iff()` and `offset()`
     - Split of `input()` into several functions
@@ -13356,9 +13272,9 @@ New argument for `time` and `time_close` functions was added:
     - Resolving a problem with a mutable variable in a security expression
     - Math operations with booleans are forbidden
 
-[Release notes](Release notes)
 
-[To Pine Script ™ version 5](To Pine Script ™ version 5)
+
+
 
 Options
 v: v5
@@ -13384,7 +13300,7 @@ v: v5
 
 # Introduction
 
-This guide documents the changes made to Pine Script ™ from v4 to v5. It will guide you in the adaptation of existing Pine scripts to Pine Script ™ v5. See our [Release notes](Release notes) for a list of the new features in Pine Script ™ v5.
+This guide documents the changes made to Pine Script ™ from v4 to v5. It will guide you in the adaptation of existing Pine scripts to Pine Script ™ v5. See our  for a list of the new features in Pine Script ™ v5.
 
 The most frequent adaptations required to convert older scripts to v5 are:
 
@@ -13401,7 +13317,7 @@ The Pine Script™ Editor includes a utility to automatically convert v4 scripts
 Not all scripts can be automatically converted from v4 to v5. If you want to convert the script manually or if your
 indicator returns a compilation error after conversion, use the following sections to determine how to complete the
 conversion. A list of some errors you can encounter during the automatic conversion and how to fix them can be found
-in the [Common script conversion errors](Common script conversion errors) section of this guide.
+in the  section of this guide.
 
 ## Renamed functions and variables
 
@@ -13424,7 +13340,7 @@ Not counting functions moved to new namespaces, only two functions have been ren
 *   `study()` is now `indicator()`.
 *   `tickerid()` is now `ticker.new()`.
 
-The full list of renamed functions and variables can be found in the [All variable, function, and parameter name changes](All variable, function, and parameter name changes) section of this guide.
+The full list of renamed functions and variables can be found in the  section of this guide.
 
 ## Renamed function parameters
 
@@ -13439,7 +13355,7 @@ timev5 = time(timeframe = "1D")
 timeBoth = time("1D")
 ```
 
-The full list of renamed function parameters can be found in the [All variable, function, and parameter name changes](All variable, function, and parameter name changes) section of this guide.
+The full list of renamed function parameters can be found in the  section of this guide.
 
 ## Removed an `rsi()` overload
 
@@ -13650,7 +13566,7 @@ plot(close, style = plotStyle)
 hline(100, linestyle = hlineStyle)
 ```
 
-See the [Some function parameters now require built-in arguments](Some function parameters now require built-in arguments) section of this guide for more information.
+See the  section of this guide for more information.
 
 Undeclared identifier ‘input.%input_name%'
 
@@ -13883,7 +13799,7 @@ This is a guide to converting Pine Script™ code from `@version=3` to `@version
 ## Converter
 Pine Script ™ Editor comes with an utility to automatically convert v3 indicators and strategies to v4. To access it, open a script with `//@version=3` in it and select the `Convert to v4` option in the `More` dropdown menu:
 
-![Converter Menu](image.png)
+
 
 Not all scripts can be automatically converted from v3 to v4. If you want to convert the script manually or if your indicator returns a compilation error after conversion, consult the guide below for more information.
 
@@ -14066,7 +13982,7 @@ Function `bton` (abbreviation of boolean-to-number) explicitly converts any bool
 
 ![TradingView Logo]
 
-[To Pine Script™ version 4](link_to_pine_script_v4) [Where can I get more information?](link_to_more_information)
+ 
 
 
 ---
@@ -14077,18 +13993,18 @@ User Manual • Where can I get more information?
 
 *   External resources
 
-*   A description of all the Pine Script ™ operators, variables and functions can be found in the [Reference Manual](Reference Manual).
+*   A description of all the Pine Script ™ operators, variables and functions can be found in the .
 *   Use the code from one of TradingView's built-in scripts to start from. Open a new chart and click the *Pine Script™* Editor button on the toolbar. Once in the editor window, click the *New* button. You'll find the TradingView built-in scripts in the dropdown list.
 *   There is a TradingView public chat dedicated to Pine Script ™ where active developers of our community help each other out.
-*   Information about major releases and modifications to Pine Script ™ Script (as well as other features) is regularly published on [TradingView's blog](TradingView's blog).
-*   TradingView's [Community Scripts](Community Scripts) contain all user-published scripts. They can also be accessed from charts using the "Indicators & Strategies" button and the "Community Scripts" tab of the script searching dialog box.
+*   Information about major releases and modifications to Pine Script ™ Script (as well as other features) is regularly published on .
+*   TradingView's  contain all user-published scripts. They can also be accessed from charts using the "Indicators & Strategies" button and the "Community Scripts" tab of the script searching dialog box.
 
 # External resources
 
-*   The [PineCoders](PineCoders) account on TradingView publishes useful information for Pine Script ™ programmers. They also have content on their [website](website).
-*   [Kodify](Kodify) has TradingView tutorials on various topics for beginners and more experienced programmers alike. Topics include plotting, alerts, strategy orders, and complete example indicators and strategies.
-*   [Backtest Rookies](Backtest Rookies) publishes good quality blog articles focusing on realizing specific tasks in Pine Script™.
-*   You can ask questions about programming in Pine Script™ in the `[pine-script]` tag on [StackOverflow](StackOverflow).
+*   The  account on TradingView publishes useful information for Pine Script ™ programmers. They also have content on their .
+*    has TradingView tutorials on various topics for beginners and more experienced programmers alike. Topics include plotting, alerts, strategy orders, and complete example indicators and strategies.
+*    publishes good quality blog articles focusing on realizing specific tasks in Pine Script™.
+*   You can ask questions about programming in Pine Script™ in the `[pine-script]` tag on .
 
 To Pine Script ™ version 3
 
